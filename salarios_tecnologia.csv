@@ -1,0 +1,996 @@
+pais,titulo,empresa,ingles,nivel_educativo,anos_experiencia,puntaje_empresa,salario_usd,puntaje_pais
+Chile,Data Scientist,BICE VIDA,Y,3,6,6.683721748,2621,34
+Chile,Data Scientist,BNamericas,N,3,7,10.03532885,2195,34
+Chile,Data Scientist.,Fuerza Laboral,Y,4,9,4.988699505,3474,34
+Chile,Data Scientist,Agrosuper,N,3,7,1.766855477,2195,34
+Chile,Data Scientist,MAS Analytics,N,1,4,6.331954447,1037,34
+Chile,Data Scientist,COSMOS Save Energy,Y,3,7,5.440532721,2804,34
+Chile,Data Scientist Full time,BICE VIDA,N,3,7,3.164475363,2195,34
+Chile,Data Scientist,Falabella,Y,5,11,4.964838218,4144,34
+Chile,Data Scientist,Fusemachines,Y,2,6,5.012272932,2317,34
+Chile,Data Scientist,Enel Chile,Y,1,6,0.868859304,2012,34
+Chile,Machine Learning Engineer,Fusemachines,Y,2,5,6.914939913,2134,34
+Chile,Machine Learning Engineer,Fusemachines,N,3,6,7.823259262,2012,34
+Chile,Engineer Computer Vision / Machine Learning,Multiplica Talent,Y,2,5,3.970647908,2134,34
+Chile,Data Scientist Especialista,Valor Único,Y,5,7,5.754802329,3413,34
+Chile,Desarrollador Robotics Engineer,Maquintel Robotic Services,Y,4,8,4.873706353,3291,34
+Chile,Data Scientist,Page Personnel,N,1,4,6.344608508,1037,34
+Chile,Data Scientist,PMA Design,Y,4,6,3.012666653,2926,34
+Chile,Data Scientist,PMA Design,N,2,4,2.164566078,1342,34
+Chile,Data Scientist,PMA Design,Y,3,8,9.226803248,2987,34
+Chile,Desarrollador Python,Kabeli,Y,3,7,5.45989362,2804,34
+Chile,Digital Data Scientist - Las Condes,United Latino Students Association,N,4,8,4.787982528,2682,34
+Chile,Digital Data Scientist - Las Condes,United Latino Students Association,N,4,9,2.705372097,2865,34
+Chile,Analista Datascience,MITS Group,Y,5,9,4.066990977,3779,34
+Chile,Senior Data Scientist,BCG GAMMA,N,3,8,7.333315219,2378,34
+Chile,Senior Data Scientist,Xe.com,Y,2,5,5.855999151,2134,34
+Chile,Data Scientist Full time,BICE VIDA,N,2,7,5.079584133,1890,34
+Chile,Data Scientist,Agrosuper,N,2,7,5.458150107,1890,34
+Chile,Data Scientist,COSMOS Save Energy,Y,3,6,3.843080343,2621,34
+Chile,Data Scientist,MAS Analytics,Y,1,5,6.207862096,1829,34
+Chile,Data Scientist.,Fuerza Laboral,Y,3,9,9.426592431,3170,34
+Chile,Data Scientist,BICE VIDA,Y,3,8,2.709726093,2987,34
+Chile,Data Scientist,BNamericas,Y,4,7,5.702733495,3109,34
+Chile,Data Scientist,Enel Chile,Y,5,8,4.414906025,3596,34
+Chile,Data Scientist,Fusemachines,N,3,7,3.251408627,2195,34
+Chile,Data Science - Tutor(a),Desafío Latam,N,3,8,6.437657095,2377,34
+Chile,Data Scientist,Falabella,N,1,5,4.418274672,1220,34
+Chile,Data Science - Docente,Desafío Latam,Y,1,5,6.677891733,1829,34
+Chile,Data Scientist,Page Personnel,Y,3,7,6.080628151,2804,34
+Chile,Digital Data Scientist - Las Condes,United Latino Students Association,Y,4,7,4.808007209,3109,34
+Chile,Digital Data Scientist - Las Condes,United Latino Students Association,Y,2,5,5.296644568,2134,34
+Chile,Data Scientist,PMA Design,N,1,5,6.622153958,1220,34
+Chile,Data Scientist,PMA Design,Y,4,11,5.336339143,3840,34
+Chile,Data Scientist,PMA Design,Y,1,5,5.414833121,1829,34
+Chile,Data Scientist Especialista,Valor Único,Y,1,4,4.444710501,1646,34
+Chile,Engineer Computer Vision / Machine Learning,Multiplica Talent,Y,2,6,2.07632262,2317,34
+Chile,Digital Data Scientist con experiencia en empresas de consumo masivo,United Latino Students Association,Y,2,7,3.32724776,2499,34
+Chile,Analista Datascience,MITS Group,Y,3,8,1.783707933,2987,34
+Chile,Desarrollador Python,Kabeli,Y,3,8,3.332566706,2987,34
+Chile,Machine Learning Engineer,Fusemachines,Y,4,7,5.505257632,3109,34
+Chile,Machine Learning Engineer,Fusemachines,Y,2,7,3.847118571,2499,34
+Chile,Data Scientist,Banco de Chile,Y,4,7,5.698757727,3109,34
+Chile,Data Scientist,BNamericas,Y,4,8,5.388529831,3291,34
+Chile,Data Scientist.,Fuerza Laboral,Y,4,9,3.758630762,3474,34
+Chile,Data Scientist,Agrosuper,N,3,7,8.047136438,2195,34
+Chile,Data Scientist,Apiux Tecnología,N,2,8,2.788022976,2073,34
+Chile,Data Scientist,BICE VIDA,Y,4,10,1.324913894,3657,34
+Chile,Data Scientist,COSMOS Save Energy,Y,5,8,4.979965706,3596,34
+Chile,Data Scientist Full time,BICE VIDA,N,4,7,1.486204463,2499,34
+Chile,Data Scientist,Fusemachines,N,3,8,6.976284289,2378,34
+Chile,Machine Learning Engineer Junior,EY,Y,3,8,4.927794647,2987,34
+Chile,Data Scientist,Falabella,Y,2,8,5.370032028,2682,34
+Chile,Data Science,Itaú Chile,N,3,6,3.246979342,2012,34
+Chile,Machine Learning Engineer,Fusemachines,Y,1,4,2.723398524,1646,34
+Chile,Machine Learning Engineer,Fusemachines,N,1,3,6.322520833,854,34
+Chile,Engineer Computer Vision / Machine Learning,Multiplica Talent,N,2,7,3.081176098,1890,34
+Chile,Data Scientist,MAS Analytics,Y,2,7,3.947712983,2499,34
+Chile,Data Scientist - Santiago,Teck Resources Limited,N,4,8,4.371998455,2682,34
+Chile,Data Scientist,PMA Design,Y,2,6,3.766544855,2317,34
+Chile,Data Scientist,EY,N,1,4,6.418833038,1037,34
+Chile,Data Scientist Especialista,Valor Único,Y,4,9,1.206674997,3474,34
+Chile,Data Scientist,PMA Design,N,3,6,3.819440547,2012,34
+Chile,Data Scientist,Enel Chile,Y,2,7,3.141699448,2499,34
+Chile,Data Scientist,Page Personnel,N,2,6,3.560487409,1707,34
+Chile,Data Science SR,Cencosud S.A.,Y,2,6,9.051009195,2317,34
+Chile,Data Scientist,PMA Design,Y,4,7,4.782898242,3109,34
+Argentina,Associate Data Scientist,BBVA en Argentina,Y,4,7,6.31883461,2611,28.56
+Argentina,Nerdearla 2022 - Data Science,Accenture Argentina,N,4,8,8.242063706,2253,28.56
+Argentina,Data Science - Data & AI,Accenture Argentina,N,2,5,7.956543454,1281,28.56
+Argentina,ARG - Data Scientist,Movistar (Telefónica Hispam),Y,2,6,6.159192814,1946,28.56
+Argentina,Data Scientist @Tiimiit,Prisma Medios de Pago,Y,4,9,7.756375595,2918,28.56
+Argentina,Científico de Datos Remoto,Consultoriait.com.ar,N,2,8,4.044658268,1741,28.56
+Argentina,Data Science - PO,Cervecería y Maltería Quilmes,N,2,5,7.224803208,1281,28.56
+Argentina,Machine Learning Engineer,Kavak.com,N,3,7,6.009577902,1844,28.56
+Argentina,Data Science Research Specialist,Accenture,N,4,9,8.536556929,2407,28.56
+Argentina,Data Scientist,Fusemachines,N,3,7,6.136482597,1843,28.56
+Argentina,Data Scientist Ssr / Sr,Naranja X,Y,3,7,4.533900895,2355,28.56
+Argentina,Machine Learning Engineer,GlobalLogic Latinoamérica,N,3,7,3.517281386,1844,28.56
+Argentina,Python Developer JR,Onapsis,Y,2,6,4.237089791,1946,28.56
+Argentina,ARG - Data Scientist,Telefónica,N,2,6,4.517157232,1434,28.56
+Argentina,Senior Data Scientist - IA,Galicia Bank,Y,0,4,2.021403989,1127,28.56
+Argentina,Product Data Scientist,Dialpad,Y,0,4,5.747482631,1127,28.56
+Argentina,Data Scientist - ID: 220006RZ,Prosegur,N,3,8,5.697222976,1997,28.56
+Argentina,Data Scientist,Chubb,N,5,8,4.075950617,2509,28.56
+Argentina,Data Analyst / Data Scientist,United Latino Students Association,Y,3,9,4.561982659,2662,28.56
+Argentina,"Data Scientist, Tech Lead",Jampp,N,4,11,3.992344877,2714,28.56
+Argentina,Data Scientist SR (por proyectos),Seeds,N,4,10,0.184837134,2560,28.56
+Argentina,Machine Learning developer,redbee,Y,3,6,1.894970978,2202,28.56
+Argentina,Python Developer (DE01010),Athyna,N,2,5,4.336007326,1281,28.56
+Argentina,Python Developer - Remoto,Experis Argentina,Y,2,5,6.735996904,1792,28.56
+Argentina,Data Scientist Ssr,Empleos IT,Y,4,6,4.267293976,2458,28.56
+Argentina,Machine Learning Engineer,GlobalLogic Latinoamérica,Y,1,4,2.229420929,1383,28.56
+Argentina,Associate Data Scientist,BBVA en Argentina,N,5,9,5.293067903,2662,28.56
+Argentina,Data Scientist @Tiimiit,Prisma Medios de Pago,Y,3,8,7.182139344,2509,28.56
+Argentina,Machine Learning Engineer,Kavak.com,N,3,8,9.217041137,1997,28.56
+Argentina,Data Scientist - ID: 220006RZ,Prosegur,N,3,5,3.455748201,1536,28.56
+Argentina,Data Science - Data & AI,Accenture Argentina,Y,2,6,5.215731485,1946,28.56
+Argentina,ARG - Data Scientist,Movistar (Telefónica Hispam),N,3,6,3.795134464,1690,28.56
+Argentina,Data Scientist,Fusemachines,N,0,5,6.510542535,769,28.56
+Argentina,Machine Learning developer,redbee,N,3,5,3.976439495,1536,28.56
+Argentina,"Data Scientist, Tech Lead",Jampp,Y,3,8,5.095012797,2509,28.56
+Argentina,Data Science Research Specialist,Accenture,N,3,7,3.14225857,1844,28.56
+Argentina,Científico de Datos Remoto,Consultoriait.com.ar,N,3,6,4.477911782,1690,28.56
+Argentina,Nerdearla 2022 - Data Science,Accenture Argentina,N,4,8,7.328667757,2253,28.56
+Argentina,Data Scientist Sr,Havas Group,N,6,9,7.376888906,2918,28.56
+Argentina,Data Scientist,Chubb,Y,4,8,4.095031556,2765,28.56
+Argentina,Machine Learning Engineer,Fusemachines,N,3,7,7.319838439,1844,28.56
+Argentina,ARG - Data Scientist,Telefónica,Y,4,10,5.63329481,3072,28.56
+Argentina,Machine Learning Engineer,Fusemachines,N,4,8,2.235429653,2253,28.56
+Argentina,Data Scientist Ssr / Sr,Naranja X,N,5,10,4.960486244,2816,28.56
+Argentina,Data Science - PO,Cervecería y Maltería Quilmes,Y,3,6,3.634119238,2202,28.56
+Argentina,Data Scientist SR (por proyectos),Seeds,N,4,9,6.819948159,2407,28.56
+Argentina,Product Data Scientist,Dialpad,N,2,8,5.281888577,1741,28.56
+Argentina,Data Scientist Ssr,Empleos IT,Y,4,8,3.82241517,2765,28.56
+Argentina,Artificial Intelligence Engineer,Despegar,N,3,5,5.76568952,1537,28.56
+Argentina,Python Developer (DE01010),Athyna,Y,5,10,5.36150811,3328,28.56
+Argentina,Machine Learning Engineer,GlobalLogic Latinoamérica,Y,3,8,8.187864729,2509,28.56
+Argentina,Associate Data Scientist,BBVA en Argentina,N,4,7,4.799008052,2100,28.56
+Argentina,Data Scientist @Tiimiit,Prisma Medios de Pago,Y,5,6,3.058887304,2714,28.56
+Argentina,Machine Learning Engineer,Kavak.com,N,2,8,6.808168108,1741,28.56
+Argentina,Data Scientist - ID: 220006RZ,Prosegur,N,3,7,6.148625549,1844,28.56
+Argentina,Data Science - Data & AI,Accenture Argentina,N,3,8,1.834842037,1997,28.56
+Argentina,ARG - Data Scientist,Movistar (Telefónica Hispam),N,2,6,5.922146792,1434,28.56
+Argentina,Data Science Research Specialist,Accenture,Y,2,7,5.780868254,2100,28.56
+Argentina,Nerdearla 2022 - Data Science,Accenture Argentina,Y,4,9,5.989879077,2918,28.56
+Argentina,Data Scientist Sr,Havas Group,Y,2,7,6.280092758,2099,28.56
+Argentina,Data Scientist,Chubb,Y,3,5,7.473064802,2048,28.56
+Argentina,Data Scientist Ssr / Sr,Naranja X,N,4,7,4.171502902,2100,28.56
+Argentina,Data Scientist SR (por proyectos),Seeds,N,2,7,4.603028513,1588,28.56
+Argentina,Product Data Scientist,Dialpad,N,3,8,2.652550024,1997,28.56
+Argentina,Data Scientist Ssr,Empleos IT,N,4,8,6.695628519,2253,28.56
+Argentina,Artificial Intelligence Engineer,Despegar,Y,4,9,3.415089777,2918,28.56
+Argentina,Data Science Analyst,Zubale,Y,3,5,5.57399792,2048,28.56
+Argentina,Data Scientist - USIS,Equifax,Y,3,8,6.685078554,2509,28.56
+Argentina,Data Scientist - Manager,Visa,Y,1,5,7.885999517,1537,28.56
+Argentina,Senior Data Scientist - IA,Galicia Bank,N,4,9,5.005638432,2407,28.56
+Argentina,Sr. Data Scientist,Equifax - Argentina,N,2,6,5.874239902,1434,28.56
+Argentina,Python Developer - Remote,Zyte,Y,3,8,6.213876298,2509,28.56
+Argentina,Python Desarrollador (Remote),Interinnovación,N,1,2,5.57849667,564,28.56
+Argentina,Python Developer JR,Onapsis,N,3,6,6.539049685,1690,28.56
+Argentina,Data Scientist Intermediate,Equifax,N,3,6,9.12710338,1690,28.56
+Colombia,Data Scientist,10Pearls,N,4,9,7.191068092,2464,29.24
+Colombia,Científico de datos,Procalidad Analytics,Y,2,5,3.758400479,1835,29.24
+Colombia,Científico de Datos,Connect Assistance,N,3,8,2.562255917,2045,29.24
+Colombia,Data Scientist,Polymath Ventures,N,4,7,5.765467596,2150,29.24
+Colombia,Data science o científico de datos,United Latino Students Association,N,6,10,5.819413734,3145,29.24
+Colombia,Data Scientist,Factored,Y,4,8,6.441076755,2831,29.24
+Colombia,Data Scientist,Clara,N,3,6,2.508575857,1730,29.24
+Colombia,Data Science Spark - Colombia,CINTE Colombia,N,2,6,4.540449172,1468,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,4,8,4.758138082,2831,29.24
+Colombia,Machine Learning Developer,Accenture Colombia,Y,4,9,3.738295166,2988,29.24
+Colombia,Data Scientist,Michael Page,N,4,7,5.221104591,2150,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,3,8,5.046020549,2569,29.24
+Colombia,Científico de datos,Trabajo Joven Sí Hay,N,3,8,10.77514844,2045,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,2,7,3.727122875,2150,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,3,8,6.050093513,2045,29.24
+Colombia,Científico de datos,SAS CEI,Y,3,7,2.003848072,2411,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,3,6,5.888534082,1730,29.24
+Colombia,Científico de datos para proyectos de Inteligencia Artificial,Trabajo Joven Sí Hay,Y,2,6,5.197501261,1992,29.24
+Colombia,Cientifico de Datos,Trabajo Joven Sí Hay,N,4,10,8.530864583,2621,29.24
+Colombia,Cientifico de Datos,Trabajo Joven Sí Hay,N,2,6,3.267209724,1468,29.24
+Colombia,Científico de datos,Trabajo Joven Sí Hay,N,3,5,1.754812096,1573,29.24
+Colombia,Cientifico de Datos Jr - Bogotá,Trabajo Joven Sí Hay,Y,3,6,4.048088571,2254,29.24
+Colombia,Developer Machine learning,Agencia de Empleo Colsubsidio,N,4,10,1.186011013,2621,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,3,8,1.693499469,2045,29.24
+Colombia,Data Scientist,10Pearls,Y,4,10,5.144573918,3145,29.24
+Colombia,Científico de datos,Procalidad Analytics,Y,4,8,3.525855589,2831,29.24
+Colombia,Científico de Datos,Connect Assistance,Y,2,8,3.712600853,2307,29.24
+Colombia,CIENTIFICO(A) DE DATOS.,Banco de Bogotá,Y,2,6,6.911890477,1992,29.24
+Colombia,Data Scientist,Polymath Ventures,N,3,7,4.215621152,1888,29.24
+Colombia,"Machine Learning Engineer, Colombia",Nubank,Y,2,6,6.974083589,1992,29.24
+Colombia,Data science o científico de datos,United Latino Students Association,N,4,10,5.756607046,2621,29.24
+Colombia,Científico/a de Datos (Senior),Bancolombia,Y,3,6,6.226323335,2254,29.24
+Colombia,Data Scientist,Factored,N,5,9,6.204169548,2726,29.24
+Colombia,Data Scientist,Clara,Y,3,8,4.899524017,2569,29.24
+Colombia,Data Scientist,AI Fund,N,1,4,7.479070018,892,29.24
+Colombia,Data Science Spark - Colombia,CINTE Colombia,Y,4,8,1.636735539,2831,29.24
+Colombia,Data Scientist,Chubb,N,3,6,3.662170198,1730,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,5,10,2.725419718,2883,29.24
+Colombia,Machine Learning Developer,Accenture Colombia,N,2,6,5.566845149,1468,29.24
+Colombia,Data Scientist,Michael Page,Y,3,6,6.282848404,2254,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,3,6,6.754085582,2254,29.24
+Colombia,Científico de datos,Trabajo Joven Sí Hay,N,2,7,3.784747531,1626,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,4,7,6.267827908,2674,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,2,6,4.581890017,1468,29.24
+Colombia,Científico de datos,SAS CEI,N,3,5,4.646377493,1573,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,5,9,4.352913882,2726,29.24
+Colombia,Analista III - Científico de Datos,Porvenir Pensiones y Cesantías,N,3,7,5.575977767,1888,29.24
+Colombia,Científico de datos para proyectos de Inteligencia Artificial,Trabajo Joven Sí Hay,Y,2,5,5.138293066,1835,29.24
+Colombia,Developer Machine learning,Agencia de Empleo Colsubsidio,N,3,7,7.485553922,1887,29.24
+Colombia,Data Scientist,Michael Page,Y,2,7,4.375694154,2149,29.24
+Colombia,PL-PRACTICANTE CIENTIFICO DE DATOS,Trabajo Joven Sí Hay,N,4,7,5.833257032,2149,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,2,6,5.180442408,1992,29.24
+Colombia,Científico de Datos Master,Trabajo Joven Sí Hay,N,3,5,7.476899107,1573,29.24
+Colombia,Sr. Machine Learning Engineer,10Pearls,Y,2,7,4.47229065,2149,29.24
+Colombia,Cientifico De Datos - Importante Empresa Del Sector,Trabajo Joven Sí Hay,N,2,6,5.244355383,1468,29.24
+Colombia,Cientifico de Datos,Trabajo Joven Sí Hay,N,3,8,5.289830133,2045,29.24
+Colombia,cientificos de datos - python,Trabajo Joven Sí Hay,Y,2,5,5.745564733,1835,29.24
+Colombia,Python Developer,Trabajo Joven Sí Hay,Y,3,8,4.102805064,2569,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,3,7,5.211521171,1888,29.24
+Colombia,CIENTIFICO DE DATOS URGENTE,Trabajo Joven Sí Hay,Y,3,6,5.262286847,2254,29.24
+Colombia,Científico de datos,Trabajo Joven Sí Hay,Y,2,7,7.845365344,2150,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,Y,1,8,6.155635565,2045,29.24
+Colombia,QGIS/Python Developer,Sofka Technologies,Y,4,7,4.176520561,2673,29.24
+Colombia,CIENTIFICO DE DATOS,Trabajo Joven Sí Hay,N,2,5,5.8283973,1311,29.24
+Colombia,científico de datos junior,Trabajo Joven Sí Hay,N,4,8,9.5530488,2307,29.24
+Colombia,Python Developer,Trabajo Joven Sí Hay,N,4,9,6.462137206,2464,29.24
+Colombia,Machine Learning Engineer,Michael Page,N,2,7,4.512897829,1625,29.24
+Colombia,Desarrollador Python,Coink,N,3,5,9.585296707,1573,29.24
+Colombia,Senior Machine Learning Engineer,Michael Page,Y,4,7,4.981345929,2674,29.24
+Colombia,Científico de Datos - Medellín,Trabajo Joven Sí Hay,Y,4,7,4.855492495,2673,29.24
+Colombia,Científico de datos - Manejo de SQL y Excel,Trabajo Joven Sí Hay,Y,2,6,5.243847707,1992,29.24
+Colombia,Científico de datos,Trabajo Joven Sí Hay,N,3,8,4.703033946,2045,29.24
+Ecuador,Data Science,Accenture,Y,3,7,6.828138844,1654,20.06
+Ecuador,Data Science,Accenture,Y,2,7,3.130195717,1475,20.06
+Ecuador,Data Scientist - Remote - Latin America,FullStack Labs,N,3,8,4.433677472,1403,20.06
+Ecuador,Ingeniero de mecatrónica,SIMPLE LOGIC S.A.,Y,4,7,7.065194233,1834,20.06
+Ecuador,Junior Software Developers and Interns,ioet,N,3,5,9.664667912,1079,20.06
+Ecuador,Algorithm Developer,Aspen Technology,Y,3,8,8.181265966,1762,20.06
+Ecuador,Senior Machine Learning Engineer,EPAM Systems,N,2,6,7.370130849,1007,20.06
+Ecuador,DATA SCIENCE CONSULTANT QUITO,Management Solutions,Y,2,8,4.580577983,1583,20.06
+Ecuador,ReactJS Frontend Engineer (LatAm),Outliant,Y,2,7,5.283585424,1475,20.06
+Ecuador,"Python Developer, Forward Kitchens (Remote) - $60,000/year USD",Crossover for Work,Y,1,5,6.533215787,1079,20.06
+Ecuador,"Python Developer, Forward Kitchens (Remote) - $60,000/year USD",Crossover for Work,N,3,7,2.968401105,1295,20.06
+Ecuador,Senior Python Developer,Launch Potato,N,5,8,6.206186053,1762,20.06
+Ecuador,Backend Developer,LumiQualis,Y,3,7,5.062477523,1654,20.06
+Ecuador,Python Developer - Remote - Latin America,FullStack Labs,N,2,6,3.909928024,1007,20.06
+Ecuador,Senior Python Developer,Launch Potato,N,2,5,4.146938678,899,20.06
+Ecuador,React-Node/Typescript Full Stack Developer,Outliant,Y,1,6,3.02901264,1187,20.06
+Ecuador,TEST AUTOMATION ENGINEER,Reverse,Y,4,9,4.381001857,2050,20.06
+Ecuador,DATA SCIENCE CONSULTANT BILBAO,Management Solutions,Y,0,4,3.829707852,792,20.06
+Ecuador,Test Automation Engineer,Globant,Y,5,9,3.225598692,2230,20.06
+Ecuador,Junior - Middle Software Engineer (m/f) - Full Remote,Page Personnel,N,3,6,5.131119522,1187,20.06
+Ecuador,Work From Home Node Developer,L.A. Head Hunter,Y,5,10,2.82654127,2337,20.06
+Ecuador,Junior - Middle Software Engineer (m/f) - Full Remote,Michael Page,Y,5,8,3.351943138,2122,20.06
+Ecuador,ASISTENTE DE PROGRAMADOR,PCGerente,Y,2,7,5.770002911,1475,20.06
+Ecuador,Python Developer - Remote - Latin America,FullStack Labs,Y,4,6,7.353537236,1726,20.06
+Ecuador,Software Automation Engineer 💻 ⭐Work for the Best Rated Software Company 💡 FULLY REMOTE,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,2,5,4.081549119,1259,20.06
+Ecuador,Data Scientist - Remote - Latin America,FullStack Labs,Y,5,7,6.222067326,2014,20.06
+Ecuador,Data Scientist - Remote - Latin America,FullStack Labs,N,2,6,6.957320861,1007,20.06
+Ecuador,Ingeniero de mecatrónica,SIMPLE LOGIC S.A.,Y,2,6,3.164895872,1367,20.06
+Ecuador,Junior Software Developers and Interns,ioet,N,0,4,4.029972234,432,20.06
+Ecuador,Algorithm Developer,Aspen Technology,N,4,7,6.941396507,1475,20.06
+Ecuador,Senior Machine Learning Engineer,EPAM Systems,N,4,7,3.78926783,1475,20.06
+Ecuador,"Python Developer, Forward Kitchens (Remote) - $60,000/year USD",Crossover for Work,Y,4,7,8.091210673,1834,20.06
+Ecuador,"Python Developer, Forward Kitchens (Remote) - $60,000/year USD",Crossover for Work,N,3,9,5.004189883,1511,20.06
+Ecuador,Python Developer - Remote - Latin America,FullStack Labs,N,4,7,2.68562627,1475,20.06
+Ecuador,Test Automation Engineer,Globant,Y,2,6,2.279231505,1367,20.06
+Ecuador,Python Software Programmer - Work from Home,Oowlish,N,2,6,2.428647819,1007,20.06
+Ecuador,Work From Home Node Developer,L.A. Head Hunter,Y,4,9,8.984136747,2050,20.06
+Ecuador,Application Engineer,ChampionX,N,2,6,5.371955021,1007,20.06
+Ecuador,Python Developer - Remote - Latin America,FullStack Labs,N,3,8,3.37853552,1403,20.06
+Ecuador,Work From Home Node Developer,INDI Staffing Services,Y,2,7,4.727557502,1475,20.06
+Ecuador,Especialista de Desarrollo,Human Consulting Strategies,Y,2,5,4.353157864,1259,20.06
+Ecuador,DevOps Engineer Junior (m/f),Michael Page,Y,1,4,6.092425101,971,20.06
+Ecuador,Software Architect,Virtualmind,N,3,8,7.757961053,1403,20.06
+Ecuador,Big Data Engineer (Scala-Spark),Applaudo,Y,3,7,4.575494537,1654,20.06
+Ecuador,Scala Developer,Applaudo,N,3,7,3.032855579,1295,20.06
+Ecuador,Senior Software Engineer (Python),EPAM Systems,Y,4,8,7.83725076,1942,20.06
+Ecuador,Desarrollador FullStack,STRATEGIC CORP,N,3,7,8.70182104,1295,20.06
+Ecuador,Cloud Engineer,Globant,Y,3,7,2.216289062,1654,20.06
+Ecuador,Work From Home QA Automation Developer,Workling,Y,3,7,4.845049908,1654,20.06
+Ecuador,Data Science,Accenture,Y,4,9,6.020769986,2050,20.06
+Ecuador,Data Science,Accenture,Y,3,8,5.531045337,1762,20.06
+Ecuador,Data Scientist - Remote - Latin America,FullStack Labs,Y,4,8,5.9211704,1942,20.06
+Ecuador,Entry Level Maint Engineer - Logging and Perf,Halliburton,N,3,7,3.203159921,1295,20.06
+Ecuador,Junior Software Developers and Interns,ioet,Y,0,4,-0.834646631,792,20.06
+Ecuador,Algorithm Developer,Aspen Technology,Y,4,7,2.727926809,1834,20.06
+Ecuador,Senior Machine Learning Engineer,EPAM Systems,Y,2,6,5.615562726,1367,20.06
+Ecuador,DATA SCIENCE CONSULTANT QUITO,Management Solutions,N,4,7,4.626178947,1475,20.06
+Ecuador,"Python Developer, Forward Kitchens (Remote) - $60,000/year USD",Crossover for Work,Y,2,7,3.477401756,1475,20.06
+Ecuador,ReactJS Frontend Engineer (LatAm),Outliant,Y,3,7,5.552702159,1654,20.06
+Ecuador,Senior Python Developer,Launch Potato,N,2,6,3.41475966,1007,20.06
+Ecuador,Backend Developer,LumiQualis,N,2,4,3.053673033,792,20.06
+Ecuador,Senior Python Developer,Launch Potato,Y,2,8,2.922587477,1582,20.06
+Ecuador,Python Developer - Remote - Latin America,FullStack Labs,N,4,7,2.11033984,1475,20.06
+Ecuador,React-Node/Typescript Full Stack Developer,Outliant,N,2,7,5.204434698,1115,20.06
+Ecuador,TEST AUTOMATION ENGINEER,Reverse,N,4,8,8.841417023,1583,20.06
+Ecuador,DATA SCIENCE CONSULTANT BILBAO,Management Solutions,N,3,6,5.084850355,1187,20.06
+Ecuador,Test Automation Engineer,Globant,Y,4,8,4.695274927,1942,20.06
+Ecuador,Junior - Middle Software Engineer (m/f) - Full Remote,Page Personnel,N,3,6,4.865652518,1187,20.06
+Ecuador,Junior - Middle Software Engineer (m/f) - Full Remote,Michael Page,Y,2,6,5.853109382,1367,20.06
+Ecuador,Desarrollador de front-end,Logic Studio S.A,Y,3,6,5.39621958,1547,20.06
+Ecuador,ASISTENTE DE PROGRAMADOR,PCGerente,N,1,6,3.349730424,828,20.06
+Ecuador,DevOps Engineer - Work from home,Nearsure,Y,2,5,4.961171198,1259,20.06
+Ecuador,Work From Home React Developer,INDI Staffing Services,Y,1,5,5.880239795,1079,20.06
+Ecuador,Work From Home Node Developer,INDI Staffing Services,Y,2,8,4.369521273,1582,20.06
+Ecuador,Data Scientist - Remote - Latin America,FullStack Labs,N,2,5,1.911459326,899,20.06
+Ecuador,Data Scientist - Remote - Latin America,FullStack Labs,Y,3,8,2.188500628,1762,20.06
+Ecuador,React.js Developer - Remote - Latin America,FullStack Labs,Y,5,10,3.322048729,2337,20.06
+Ecuador,Research Scientist II,Cargill,Y,4,8,6.449438504,1942,20.06
+Ecuador,Elixir Backend Engineer,Outliant,N,2,5,5.990345981,899,20.06
+Ecuador,Forecasting Data Scientist,Mondelēz International,N,3,9,6.558532921,1511,20.06
+Ecuador,Sr. Node.js Engineer,TrueNorth,N,3,7,6.61959522,1295,20.06
+Ecuador,Lead Software Engineer - Front End,Factor,N,2,6,4.216931886,1007,20.06
+Ecuador,Feed Formulator II,Cargill,N,3,8,5.974094271,1403,20.06
+Ecuador,Data Engineer - Remote - Latin America,FullStack Labs,Y,3,6,8.138826795,1547,20.06
+Ecuador,Desarrollador Frontend,iuvity,Y,3,7,5.343594662,1654,20.06
+Ecuador,Application Developer JAVA,Tata Consultancy Services,N,3,7,7.970810277,1295,20.06
+Ecuador,Front End Engineer ( TypeScript),Modus Create,N,2,7,7.502908368,1115,20.06
+Ecuador,Work From Home Node Developer,L.A. Head Hunter,N,5,9,6.618876304,1870,20.06
+Ecuador,Front End Developer - HTML / CSS - US$ 9000/month (remote),Revelo,N,2,6,5.121516287,1007,20.06
+Ecuador,"Staff Software Engineer (Backend, Python, RDBMS)",EQUALS TRUE,N,2,7,3.381879664,1115,20.06
+Ecuador,Data Engineer,Grupo Modelo S.A. de C.V.,N,2,7,2.48281678,1115,20.06
+Ecuador,Application Engineer,ChampionX,N,3,7,1.940568942,1295,20.06
+Ecuador,Mid/Senior Level Data Engineer,eSage Group,N,4,7,5.755934253,1475,20.06
+Ecuador,Entry Level Maint Engineer - Logging and Perf,Halliburton,N,5,10,0.450969125,1978,20.06
+Ecuador,Work From Home React Developer,INDI Staffing Services,N,4,9,3.880306573,1690,20.06
+Ecuador,Mobile Developer (m/f) - Full Remote,Michael Page,Y,5,8,1.577443254,2122,20.06
+Ecuador,Work From Home Android Developer,L.A. Head Hunter,N,3,6,3.646826011,1187,20.06
+Ecuador,Desarrollador(a) de software Microsoft Dynamics 365 F&O,Modern Talent Hub,N,1,5,6.933678651,720,20.06
+Ecuador,Work From Home Node Developer,L.A. Head Hunter,Y,3,8,1.722845842,1762,20.06
+Brasil,Data Scientist,STEMBoard,N,4,8,5.841599365,2414,30.6
+Brasil,Data Scientist Full Time,Bardess Group Ltd,Y,1,5,6.151098415,1646,30.6
+Brasil,Data Scientist- Remote,McAfee,Y,4,8,8.209831042,2962,30.6
+Brasil,Data Scientist - Statistical Genetics,Gencove,N,3,6,4.594087396,1811,30.6
+Brasil,Data Scientist,PayPal,N,3,7,7.870083798,1975,30.6
+Brasil,Data Scientist,"Rural Innovation Strategies, Inc.",Y,2,4,4.36434119,1756,30.6
+Brasil,Data Scientist,PayPal,Y,2,7,2.600398269,2249,30.6
+Brasil,Machine Learning Engineer,Yakoa,N,1,6,4.555244744,1262,30.6
+Brasil,Data Scientist,PayPal,N,2,6,4.45913151,1537,30.6
+Brasil,Data Scientist (Remote),The Home Depot,Y,3,7,5.372372733,2524,30.6
+Brasil,Data Scientist,PayPal,N,3,8,6.259423512,2140,30.6
+Brasil,Data Scientist,Atlantic Partners Corporation,Y,4,9,5.251045147,3127,30.6
+Brasil,"Data Scientist, Product (Develop Area)",Asana,Y,5,10,3.549908986,3566,30.6
+Brasil,Data Scientist,Salt,N,4,8,-1.399448646,2414,30.6
+Brasil,Data Scientist,Storm5,Y,2,7,7.753454317,2249,30.6
+Brasil,Data Scientist,FinTrust Connect,Y,3,6,6.708384288,2359,30.6
+Brasil,Data Scientist – Operations Research,Bosch USA,Y,4,9,5.349286481,3127,30.6
+Brasil,Data Scientist,Mindtree,N,4,8,6.275308362,2414,30.6
+Brasil,Data Scientist,UpRecruit,Y,3,7,5.973753238,2524,30.6
+Brasil,Data Scientist,Hyatt Hotels Corporation,Y,4,8,3.094322564,2962,30.6
+Brasil,Data Scientist,Glocomms,N,4,8,2.650811062,2414,30.6
+Brasil,Data Scientist (100% Remote),CyberCoders,N,3,5,0.365861345,1646,30.6
+Brasil,Data Scientist,System Soft Technologies,N,2,8,4.502729108,1866,30.6
+Brasil,Data Scientist,PayPal,Y,5,9,5.510187311,3401,30.6
+Brasil,Data Scientist,Tredence Inc.,Y,3,7,7.242952133,2524,30.6
+Brasil,Cientista de Dados Junior,C6 Bank,N,2,6,8.446316304,1537,30.6
+Brasil,Cientista de Dados Junior,Porto,Y,1,5,6.289756466,1646,30.6
+Brasil,Cientista de Dados Jr.,Falconi,N,2,6,3.669427711,1537,30.6
+Brasil,Junior Data Scientist,4flow,N,3,6,6.132641611,1811,30.6
+Brasil,Cientista de dados Júnior,Mindsight,N,2,4,7.340803868,1208,30.6
+Brasil,Cientista de Dados Jr,Fretebras,Y,2,8,6.071057535,2414,30.6
+Brasil,Data Scientist,Poatek,Y,3,7,5.335578537,2524,30.6
+Brasil,"Data Scientist, Spotify For Artists",Spotify,N,3,8,8.282472167,2140,30.6
+Brasil,Data Scientist,PagoNxt (a Santander company),Y,4,7,3.712785195,2798,30.6
+Brasil,"Data Scientist, Strategic Research",Spotify,N,4,10,8.431650671,2743,30.6
+Brasil,Data science analyst,Intellibrand,N,3,7,1.991309855,1975,30.6
+Brasil,CIENTISTA DE DADOS JR,Cogna Educação,N,2,7,7.871208302,1701,30.6
+Brasil,"Data Scientist, Creator Promotion",Spotify,Y,3,6,1.499985365,2359,30.6
+Brasil,Data Scientist,Bornlogic,N,3,8,3.982329134,2140,30.6
+Brasil,Cientista de Dados,Meta,Y,3,6,3.320532145,2359,30.6
+Brasil,Cientista de Dados Júnior (Remoto) - 27658-3163128,Instituto Atlântico,Y,4,8,4.810421173,2962,30.6
+Brasil,Cientista de Dados Júnior,Amplifica Digital,N,1,6,7.106384171,1262,30.6
+Brasil,Cientista de Dados Júnior,DataEX,Y,4,8,4.115437761,2962,30.6
+Brasil,Cientista de Dados - Junior (Remoto),BIX Tech - Data Consulting,N,2,7,7.49389974,1701,30.6
+Brasil,Cientista de Dados - Home Office,Trade Technology,N,4,8,6.360500646,2414,30.6
+Brasil,CIENTISTA DE DADOS,Grupo Malwee,N,3,7,3.404982965,1975,30.6
+Brasil,"Product Data Scientist, Spotify Advertising",Spotify,N,2,6,5.054725532,1537,30.6
+Brasil,"Data Scientist / Data Analyst, Safety",Uber,N,4,7,4.751619932,2249,30.6
+Brasil,Applied Data Scientist,dunnhumby,Y,3,8,4.534276933,2688,30.6
+Brasil,Cientista de Dados,Nelogica,N,2,5,4.563669665,1372,30.6
+Brasil,Data Scientist,STEMBoard,Y,1,5,5.632256622,1646,30.6
+Brasil,Data Scientist Full Time,Bardess Group Ltd,N,4,8,5.436735822,2414,30.6
+Brasil,Data Scientist,"Rural Innovation Strategies, Inc.",Y,3,7,7.256170356,2524,30.6
+Brasil,Machine Learning Engineer,Yakoa,Y,4,8,6.573739907,2962,30.6
+Brasil,Data Scientist,"JDSAT, Inc.",N,3,5,4.562040517,1646,30.6
+Brasil,Data Scientist - Statistical Genetics,Gencove,N,3,7,0.73777013,1975,30.6
+Brasil,Data Scientist,Hyatt Hotels Corporation,N,4,10,6.045130578,2743,30.6
+Brasil,Data Scientist,HireResources,N,3,6,4.64041999,1811,30.6
+Brasil,Data Scientist,PMMC,N,2,6,3.52596064,1537,30.6
+Brasil,Data Scientist (Real-time Ops),Gridware,N,3,7,5.078161649,1975,30.6
+Brasil,Data Scientist | Competitive Compensation + Benefits + Hybrid Work | Disruptive Healthcare Analytics SaaS Company,PhillyTech | SaaS and Hi-Tech Growth & Hiring Solutions,N,4,8,5.676250022,2414,30.6
+Brasil,Data Scientist,365 Retail Markets,Y,3,8,2.573585344,2688,30.6
+Brasil,Data Scientist,Massachusetts Institute of Technology,Y,5,9,5.179459623,3401,30.6
+Brasil,Data Scientist - Remote,Sparity,N,4,8,3.552558125,2414,30.6
+Brasil,Data Scientist,Sealed,Y,5,11,3.194477248,3730,30.6
+Brasil,Data Scientist,Grabango,N,3,8,7.783720875,2140,30.6
+Brasil,Lead Data Scientist,Dorkin Inc.,Y,3,8,3.745798818,2688,30.6
+Brasil,Senior Data Scientist,Gridware,N,3,6,5.231382477,1811,30.6
+Brasil,Machine Learning Engineer - Marketplace Pricing,Hitch,Y,5,9,4.419437505,3401,30.6
+Brasil,Data Scientist,Fetch Rewards,Y,2,7,2.465765534,2249,30.6
+Brasil,DATA SCIENTIST,NAVSEA Warfare Centers (NSWC/NUWC),N,2,7,5.697113639,1701,30.6
+Brasil,Data Scientist,Silent Eight,N,2,5,4.519815995,1372,30.6
+Brasil,Data Scientist (1093211),Tier4 Group,N,3,7,6.851436595,1975,30.6
+Brasil,Machine Learning Data Engineer,Pfizer,N,4,7,1.098881846,2249,30.6
+Brasil,Research Engineer: AI/ML/Perception,Sarcos Technology and Robotics Corporation,N,3,8,6.763346072,2140,30.6
+Brasil,Cientista de Dados Jr,Fretebras,Y,3,9,3.577204447,2853,30.6
+Brasil,Cientista de dados Júnior,Mindsight,N,3,6,5.400947515,1811,30.6
+Brasil,Cientista de Dados Junior,Porto,Y,3,7,5.555582962,2524,30.6
+Brasil,Data Scientist,Poatek,N,4,8,4.073046036,2414,30.6
+Brasil,CIENTISTA DE DADOS JR,Cogna Educação,N,3,6,7.432592369,1811,30.6
+Brasil,Data Scientist,Bornlogic,N,1,4,6.982877769,933,30.6
+Brasil,Cientista de Dados - Junior (Remoto),BIX Tech - Data Consulting,N,5,8,6.829050543,2688,30.6
+Brasil,CIENTISTA DE DADOS,Grupo Malwee,Y,2,7,5.247494219,2249,30.6
+Brasil,Data Scientist SR,RecargaPay,N,3,7,6.129388351,1975,30.6
+Brasil,Data Scientist,Danone,N,2,5,4.631594298,1372,30.6
+Brasil,Cientista de Dados Júnior (Remoto) - 27658-3163128,Instituto Atlântico,Y,2,6,5.000883939,2085,30.6
+Brasil,Cientista de Dados Júnior,Amplifica Digital,Y,4,9,8.389429927,3127,30.6
+Brasil,Cientista de Dados,Meta,N,2,7,5.667539152,1701,30.6
+Brasil,Cientista de Dados (Data Scientist),ENG4,N,2,5,4.614781948,1372,30.6
+Brasil,Cientista de Dados,A3Data,Y,4,8,5.976972072,2962,30.6
+Brasil,Cientista de Dados - Home Office,Trade Technology,Y,3,7,3.214597206,2524,30.6
+Brasil,Data Scientist,Topaz,Y,2,7,8.226756638,2249,30.6
+Brasil,Cientista de Dados,Takao,N,3,6,2.424490457,1811,30.6
+Brasil,CIENTISTA DE DADOS PLENO (100% REMOTO),ClearSale,N,3,9,5.821051536,2304,30.6
+Brasil,Cientista de Dados Júnior,DataEX,N,5,8,7.556678349,2688,30.6
+Brasil,Cientista de Dados,VLGI Investimentos,Y,4,8,3.278692798,2962,30.6
+Brasil,Estagiário(a) de Data Science,BizCapital,Y,2,6,6.171184032,2085,30.6
+Brasil,Data Scientist,OpenCircle,Y,4,6,4.670989591,2633,30.6
+Brasil,Data Scientist- HÍBRIDO (Brasília/DF ou São Paulo/SP),Coodesh,N,5,9,6.26814459,2853,30.6
+Brasil,Machine Learning Engineer - Computer Vision,Poatek,N,5,8,3.056072856,2688,30.6
+Venezuela,Work From Home Python Developer,INDI Staffing Services,Y,3,7,6.182064542,841,10.2
+Venezuela,Work From Home Python Developer,L.A. Head Hunter,Y,2,8,6.48838259,805,10.2
+Venezuela,ReactJS Frontend Engineer (LatAm),Outliant,N,3,7,5.898840919,658,10.2
+Venezuela,Fullstack Developer (Node/React),Aluxion,Y,3,6,4.347865613,786,10.2
+Venezuela,Work From Home React Developer,L.A. Head Hunter,N,3,6,6.259904306,604,10.2
+Venezuela,Ingeniero de Software Fullstack,TUTEN,N,1,5,7.606635884,366,10.2
+Venezuela,Desarrollador Frontend React,Confidential,N,2,8,6.082846342,622,10.2
+Venezuela,Software Engineer - Python and K8s,Canonical,N,3,8,3.943860646,713,10.2
+Venezuela,Python Software Programmer - Work from Home,Oowlish,N,2,4,6.39318241,403,10.2
+Venezuela,Work From Home React Developer,INDI Staffing Services,N,1,5,2.216896379,366,10.2
+Venezuela,Backend Developer,LumiQualis,Y,3,8,5.884040176,896,10.2
+Venezuela,Back end developer,FENARC,N,2,7,1.688697766,567,10.2
+Venezuela,Work From Home Node Developer,INDI Staffing Services,N,2,6,4.944576904,512,10.2
+Venezuela,Work From Home Node Developer,Workling,Y,3,8,4.629533347,896,10.2
+Venezuela,Python Software Engineer - Networking/Telco,Canonical,N,5,8,2.499137312,896,10.2
+Venezuela,Identity Platform Software Engineer - Python/Go,Canonical,Y,3,8,8.934459201,896,10.2
+Venezuela,"Software Engineer, Trilogy (Remote) - $100,000/year USD",Crossover for Work,N,3,8,5.952148417,713,10.2
+Venezuela,software engineer mobil,TUTEN,N,2,6,7.768408852,512,10.2
+Venezuela,Site Reliability Engineer,Devsu,N,5,10,5.73329387,1006,10.2
+Venezuela,Python Software Programmer - Work from Home,Oowlish,N,1,8,5.570443727,530,10.2
+Venezuela,Software Engineer (Python/Linux/Packaging),Canonical,Y,3,6,6.045742418,786,10.2
+Venezuela,Software Engineer - Data Platform,Canonical,N,3,7,7.090099155,658,10.2
+Venezuela,"Software Engineer, Trilogy (Remote) - $100,000/year USD",Crossover for Work,N,3,8,4.201267247,713,10.2
+Venezuela,Work From Home React Native Developer,Workling,N,3,6,1.793758836,604,10.2
+Venezuela,Data Engineer,FENARC,Y,4,7,3.015126915,933,10.2
+Venezuela,Fullstack Developer (Node/React),Aluxion,N,2,6,9.103682914,512,10.2
+Venezuela,Work From Home Python Developer,L.A. Head Hunter,Y,5,8,7.754961986,1079,10.2
+Venezuela,Backend Developer,LumiQualis,Y,5,9,4.979452034,1134,10.2
+Venezuela,Ingeniero de Software Fullstack,TUTEN,N,5,9,6.086931639,951,10.2
+Venezuela,Back end developer,FENARC,Y,4,9,7.255095516,1042,10.2
+Venezuela,Work From Home Python Developer,INDI Staffing Services,Y,3,5,5.731012384,732,10.2
+Venezuela,Software Engineer - Python and K8s,Canonical,Y,3,8,8.867067618,896,10.2
+Venezuela,Work From Home React Developer,L.A. Head Hunter,Y,3,8,5.565731695,896,10.2
+Venezuela,software engineer mobil,TUTEN,Y,1,5,6.090353467,549,10.2
+Venezuela,Front end developer,FENARC,Y,1,6,5.719179524,604,10.2
+Venezuela,Programador full stack,Taclia,Y,4,7,4.553446928,933,10.2
+Venezuela,Senior Java Developer (Spring Boot),Aluxion,Y,1,6,5.498690588,604,10.2
+Venezuela,Work From Home Node Developer,Workling,N,3,9,2.147338315,768,10.2
+Venezuela,Python Software Programmer - Work from Home,Oowlish,N,2,7,7.703459251,567,10.2
+Venezuela,Big Data Engineer (Scala-Spark),Applaudo,N,3,6,7.216592058,604,10.2
+Venezuela,Desarrollador Java,Confidential,Y,4,8,6.672897904,987,10.2
+Venezuela,ReactJS Frontend Engineer (LatAm),Outliant,Y,3,6,7.720899879,786,10.2
+Venezuela,Data Engineer BI,Telefónica,Y,1,7,5.752249455,658,10.2
+Venezuela,Work From Home Java Developer,L.A. Head Hunter,N,2,5,5.704525782,457,10.2
+Venezuela,Desarrollador,Allyservices.Tech,Y,1,6,7.020036005,604,10.2
+Venezuela,Desarrollador Fullstack Node JS,WCS,Y,2,7,3.885152248,750,10.2
+Venezuela,Site Reliability Engineer,Devsu,Y,4,7,4.923255473,933,10.2
+Venezuela,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,N,4,9,6.025379543,859,10.2
+Venezuela,Work From Home Python Developer,INDI Staffing Services,Y,5,9,6.51902044,1134,10.2
+Venezuela,Work From Home Python Developer,L.A. Head Hunter,N,3,7,0.537893364,658,10.2
+Venezuela,ReactJS Frontend Engineer (LatAm),Outliant,Y,3,8,4.386875541,896,10.2
+Venezuela,Fullstack Developer (Node/React),Aluxion,N,3,5,5.168016073,549,10.2
+Venezuela,Work From Home React Developer,L.A. Head Hunter,N,2,7,2.7594305,567,10.2
+Venezuela,Ingeniero de Software Fullstack,TUTEN,Y,3,6,8.020863281,786,10.2
+Venezuela,Desarrollador Frontend React,Confidential,Y,3,5,4.592006332,732,10.2
+Venezuela,Software Engineer - Python and K8s,Canonical,Y,1,4,6.297101175,494,10.2
+Venezuela,Python Software Programmer - Work from Home,Oowlish,N,3,8,5.88039283,713,10.2
+Venezuela,Work From Home React Developer,INDI Staffing Services,N,2,5,1.480019104,457,10.2
+Venezuela,Backend Developer,LumiQualis,Y,4,8,2.29277915,987,10.2
+Venezuela,Data Engineer,FENARC,N,4,8,3.349856419,805,10.2
+Venezuela,Site Reliability Engineer,Devsu,N,1,5,4.166643895,366,10.2
+Venezuela,Back end developer,FENARC,Y,4,8,5.988168817,987,10.2
+Venezuela,Work From Home Node Developer,INDI Staffing Services,N,2,6,5.207227663,512,10.2
+Venezuela,Work From Home Node Developer,Workling,Y,4,8,5.983123544,987,10.2
+Venezuela,Python Software Engineer - Networking/Telco,Canonical,Y,1,5,2.496678979,549,10.2
+Venezuela,Identity Platform Software Engineer - Python/Go,Canonical,Y,4,7,4.566346566,933,10.2
+Venezuela,"Software Engineer, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,6,10,6.317135025,1280,10.2
+Venezuela,software engineer mobil,TUTEN,N,3,9,6.946926284,768,10.2
+Venezuela,Python Software Programmer - Work from Home,Oowlish,Y,3,6,3.583669216,786,10.2
+Venezuela,Software Engineer (Python/Linux/Packaging),Canonical,N,2,6,0.52846683,512,10.2
+Venezuela,Software Engineer - Data Platform,Canonical,Y,3,5,3.880635975,732,10.2
+Venezuela,"Software Engineer, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,1,5,4.66863277,549,10.2
+Venezuela,Fullstack Developer (Node/React),Aluxion,Y,4,8,8.069768149,987,10.2
+Venezuela,Backend Developer,LumiQualis,N,3,6,8.996190077,604,10.2
+Venezuela,Back end developer,FENARC,N,3,7,2.949458225,658,10.2
+Venezuela,Software Engineer - Python and K8s,Canonical,Y,3,7,5.825985736,841,10.2
+Venezuela,Front end developer,FENARC,N,3,7,8.59806119,658,10.2
+Venezuela,Senior Java Developer (Spring Boot),Aluxion,N,3,8,3.050330583,713,10.2
+Venezuela,Big Data Engineer (Scala-Spark),Applaudo,N,3,6,4.509038421,604,10.2
+Venezuela,Mobile Application Programmer,Corporacion Gran Océano,Y,3,7,4.835282264,841,10.2
+Venezuela,ReactJS Frontend Engineer (LatAm),Outliant,N,3,7,1.691159152,658,10.2
+Venezuela,Mobile Application Developer,The Flock,Y,4,8,7.378103499,987,10.2
+Venezuela,Desarrollador Fullstack Node JS,WCS,Y,3,7,5.340849205,841,10.2
+Venezuela,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,3,7,3.211047407,841,10.2
+Venezuela,Python Software Engineer - Networking/Telco,Canonical,Y,4,8,3.197728695,987,10.2
+Venezuela,Software Engineer (Python/Linux/Packaging),Canonical,Y,3,7,6.180317365,841,10.2
+Venezuela,Scala Developer,Applaudo,N,3,8,4.186118633,713,10.2
+Venezuela,Desarrollador Web Semi Sennior,EBClosion,N,5,8,5.562328996,896,10.2
+Venezuela,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,2,6,4.883480608,695,10.2
+Venezuela,Software Engineer - Cloud Images,Canonical,Y,3,8,3.007307416,896,10.2
+Venezuela,React/C# Fullstack Developer (LATAM Remote),Qeystroke,Y,1,3,3.538901819,439,10.2
+Venezuela,"Software Developer, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,2,6,1.177967874,695,10.2
+Venezuela,"Software Engineer, Trilogy (Remote) - $100,000/year USD",Crossover for Work,N,2,5,4.327583221,457,10.2
+Venezuela,Senior Python Software Engineer,Canonical,Y,2,7,4.407313389,750,10.2
+Venezuela,Software Engineer - Data Platform,Canonical,N,4,9,4.394486037,859,10.2
+Uruguay,Python Developer - Remote,Zyte,N,2,5,5.893376288,1296,28.9
+Uruguay,Python Developer,FRIEDMAN,Y,2,6,3.949988252,1969,28.9
+Uruguay,Desarrollador Junior [Python /React],FRIEDMAN,Y,1,6,1.140096201,1710,28.9
+Uruguay,Sr Data Scientist👨💻 | 🏢Multinacional líder en Retail en Latam 🌎 | Montevideo📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,3,7,2.25390604,2383,28.9
+Uruguay,Desarrollador Python Backend,FRIEDMAN,Y,2,5,2.671204377,1814,28.9
+Uruguay,Python Developer,Tata Consultancy Services,Y,3,8,5.136479288,2539,28.9
+Uruguay,Desarrollador Junior Backend,Zonamerica,Y,3,7,5.085970205,2383,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,Y,4,11,4.34857343,3264,28.9
+Uruguay,Software Developer,Cedarcode,Y,3,8,2.573846949,2539,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,N,5,11,6.486197417,3005,28.9
+Uruguay,Programador Junior,FRIEDMAN,N,4,7,7.804765729,2124,28.9
+Uruguay,Backend Developer,LumiQualis,N,1,5,3.798791504,1037,28.9
+Uruguay,Python Full Stack Developer - AI Projects,Solas IT Recruitment,N,3,7,4.967788447,1866,28.9
+Uruguay,Full Stack Engineer,marco,Y,3,6,7.271206793,2228,28.9
+Uruguay,Software Engineer,UKG,Y,3,6,3.801432955,2228,28.9
+Uruguay,Head of data science 💻 📊 | 🏢Multinacional líder en Retail en Latam 🌎 | Montevideo📍,Prometeo Talent - Recruitment services for high-growth tech companies.,N,3,7,5.278825229,1866,28.9
+Uruguay,IoT Project Developer,FRIEDMAN,Y,3,8,7.712251233,2539,28.9
+Uruguay,Senior Machine Learning Engineer,EPAM Systems,Y,3,7,1.109440139,2383,28.9
+Uruguay,Software Engineer,McKinsey & Company,Y,5,9,3.426792381,3212,28.9
+Uruguay,Visa para España 💃🏻🇪🇸 | Fullstack React Developer 👨🏻💻 | Spain Consultancy Company (LATAM),Prometeo Talent - Recruitment services for high-growth tech companies.,Y,2,8,4.896602624,2280,28.9
+Uruguay,Full Stack Developer,Modelit,Y,2,7,6.391755182,2125,28.9
+Uruguay,Software Engineer - Python and K8s,Canonical,Y,2,4,5.43405036,1658,28.9
+Uruguay,Desarrollador de Software,SONDA,Y,3,6,4.292393201,2228,28.9
+Uruguay,Programador full stack,SONDA,N,3,7,2.961956833,1865,28.9
+Uruguay,Front-End Developer,Portrait,Y,4,9,4.693974793,2953,28.9
+Uruguay,Python Developer - Remote,Zyte,N,4,9,6.461538213,2435,28.9
+Uruguay,Python Developer,FRIEDMAN,N,3,7,0.949051849,1866,28.9
+Uruguay,Sr Data Scientist👨💻 | 🏢Multinacional líder en Retail en Latam 🌎 | Montevideo📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,4,8,6.239011204,2798,28.9
+Uruguay,Desarrollador Junior [Python /React],FRIEDMAN,Y,3,7,3.69248958,2383,28.9
+Uruguay,Desarrollador Python Backend,FRIEDMAN,Y,2,7,2.646077981,2124,28.9
+Uruguay,Trainee / Jr Developer - Uruguay only,SoftEdge Technologies US,N,4,8,3.840045686,2280,28.9
+Uruguay,Python Developer,Tata Consultancy Services,N,4,8,8.091468792,2280,28.9
+Uruguay,Desarrollador Junior Backend,Zonamerica,Y,3,5,4.015278247,2073,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,Y,4,9,4.484374272,2953,28.9
+Uruguay,Software Developer,Cedarcode,Y,2,8,5.721586264,2280,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,Y,2,5,2.439057093,1814,28.9
+Uruguay,Programador Junior,FRIEDMAN,Y,4,7,4.079732078,2642,28.9
+Uruguay,Backend Developer,LumiQualis,Y,2,7,5.676881713,2125,28.9
+Uruguay,Python Full Stack Developer - AI Projects,Solas IT Recruitment,Y,3,7,5.793028966,2383,28.9
+Uruguay,Full Stack Engineer,marco,Y,1,5,3.587442277,1555,28.9
+Uruguay,Head of data science 💻 📊 | 🏢Multinacional líder en Retail en Latam 🌎 | Montevideo📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,2,5,8.607886749,1814,28.9
+Uruguay,IoT Project Developer,FRIEDMAN,Y,2,7,2.835354526,2125,28.9
+Uruguay,Software Engineer,UKG,N,3,8,1.149567679,2021,28.9
+Uruguay,Senior Machine Learning Engineer,EPAM Systems,N,4,8,7.534025097,2280,28.9
+Uruguay,Software Engineer,McKinsey & Company,Y,4,6,5.28439723,2487,28.9
+Uruguay,Full Stack Developer,Modelit,Y,2,6,4.773782075,1969,28.9
+Uruguay,Software Engineer - Python and K8s,Canonical,N,2,5,2.567153091,1296,28.9
+Uruguay,Desarrollador de Software,SONDA,Y,4,9,8.742475408,2953,28.9
+Uruguay,Programador full stack,SONDA,N,4,8,4.031075897,2280,28.9
+Uruguay,Front-End Developer,Portrait,N,2,6,7.19121163,1451,28.9
+Uruguay,Python Developer - Remote,Zyte,N,3,6,8.109072601,1710,28.9
+Uruguay,Desarrollador Junior [Python /React],FRIEDMAN,Y,3,7,4.728872033,2383,28.9
+Uruguay,Python Developer,FRIEDMAN,N,3,7,5.024520629,1866,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,Y,2,5,4.101646138,1814,28.9
+Uruguay,Sr Data Scientist👨💻 | 🏢Multinacional líder en Retail en Latam 🌎 | Montevideo📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,4,7,0.20229472,2642,28.9
+Uruguay,Desarrollador Python Backend,FRIEDMAN,Y,2,6,4.317064124,1969,28.9
+Uruguay,ReactJS Developer,KAIZEN Softworks,N,2,5,7.010025375,1296,28.9
+Uruguay,Desarrollador RPA,FRIEDMAN,N,6,11,6.515662316,3264,28.9
+Uruguay,Senior Machine Learning Engineer,EPAM Systems,Y,2,7,4.310604133,2124,28.9
+Uruguay,Programador Junior,FRIEDMAN,N,2,4,5.578905593,1140,28.9
+Uruguay,Full Stack Engineer,marco,Y,4,7,8.276069424,2642,28.9
+Uruguay,Ssr Automation Engineer 👨💻 Let's make an impact together,Octobot,N,2,6,6.182039935,1451,28.9
+Uruguay,Frontend Developer - Remote,Zyte,N,3,8,3.064834991,2021,28.9
+Uruguay,QA Automation Engineer (Remote),dLocal,Y,2,7,0.647848716,2124,28.9
+Uruguay,Backend Developer,LumiQualis,N,4,8,5.637193325,2280,28.9
+Uruguay,IoT Project Developer,FRIEDMAN,Y,2,4,9.031218157,1658,28.9
+Uruguay,Front End Developer - Fraud (Remote),dLocal,Y,3,5,6.499629877,2073,28.9
+Uruguay,Remote Solutions Engineer (JavaScript) - LATAM,MonetizeMore,N,1,4,5.812214989,881,28.9
+Uruguay,Software Engineer - Python and K8s,Canonical,N,4,7,7.142971324,2124,28.9
+Uruguay,Platform Data Engineer (LATAM),Demyst,N,3,6,1.958862361,1710,28.9
+Uruguay,Software Quality Assurance Engineer,Clockwork,Y,2,6,7.698423782,1969,28.9
+Uruguay,Test Automation Engineer,Globant,N,3,6,5.717566238,1710,28.9
+Uruguay,IoT Solution Engineer,FRIEDMAN,Y,1,6,2.364233022,1710,28.9
+Uruguay,DevOps Engineer,marco,Y,2,5,5.368910294,1814,28.9
+Uruguay,Ssr Software Engineer 💻 Let's make an impact together,Octobot,N,3,7,0.586968969,1865,28.9
+Uruguay,Python Developer - Remote,Zyte,N,4,7,4.658831312,2124,28.9
+Uruguay,Desarrollador Junior [Python /React],FRIEDMAN,N,3,7,6.272499335,1866,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,Y,5,11,4.260234375,3523,28.9
+Uruguay,Data Scientist - Remote - Latin America,FullStack Labs,Y,5,9,2.182662621,3212,28.9
+Uruguay,Python Developer,FRIEDMAN,Y,3,7,6.93603749,2383,28.9
+Uruguay,Sr Data Scientist👨💻 | 🏢Multinacional líder en Retail en Latam 🌎 | Montevideo📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,2,6,5.121995205,1969,28.9
+Uruguay,Python Full Stack Developer - AI Projects,Solas IT Recruitment,N,3,6,5.040581262,1710,28.9
+Uruguay,Desarrollador Python Backend,FRIEDMAN,N,3,8,1.331373495,2021,28.9
+Uruguay,ReactJS Developer,KAIZEN Softworks,N,2,6,1.707414545,1451,28.9
+Uruguay,Programador Python Odoo,Acceleanation,Y,2,5,4.864286572,1814,28.9
+Uruguay,Senior Machine Learning Engineer,EPAM Systems,Y,2,8,2.664304887,2280,28.9
+Uruguay,Programador Junior,FRIEDMAN,N,4,6,6.451757865,1969,28.9
+Uruguay,Full Stack Engineer,marco,Y,4,8,5.942084291,2798,28.9
+Uruguay,Ssr Automation Engineer 👨💻 Let's make an impact together,Octobot,Y,3,8,3.2181954,2539,28.9
+Uruguay,Frontend Developer - Remote,Zyte,N,3,6,5.009078124,1710,28.9
+Uruguay,QA Automation Engineer (Remote),dLocal,Y,3,8,3.8675345,2539,28.9
+Uruguay,Software Engineer - Python and K8s,Canonical,N,3,7,4.827441735,1865,28.9
+Uruguay,Backend Developer,LumiQualis,Y,2,7,2.123549751,2125,28.9
+Uruguay,Front End Developer - Fraud (Remote),dLocal,N,3,7,6.301017276,1866,28.9
+Uruguay,IoT Project Developer,FRIEDMAN,N,4,8,3.240883548,2280,28.9
+Uruguay,Desarrollador RPA,FRIEDMAN,N,3,8,8.5538361,2021,28.9
+Uruguay,Remote Solutions Engineer (JavaScript) - LATAM,MonetizeMore,Y,2,6,7.898055573,1969,28.9
+Uruguay,Software Quality Assurance Engineer,Clockwork,Y,5,8,0.56914121,3057,28.9
+Uruguay,Platform Data Engineer (LATAM),Demyst,Y,4,7,7.402853393,2642,28.9
+Uruguay,Test Automation Engineer,Globant,Y,4,7,4.422714421,2642,28.9
+Paraguay,Data Scientist,United Latino Students Association,N,3,7,6.419980483,1448,22.44
+Paraguay,Developer,EXCELSIS,N,2,6,5.05105277,1127,22.44
+Paraguay,Software Engineer,WillDom,Y,2,4,2.468005469,1288,22.44
+Paraguay,Software Engineer,Equifax,N,4,8,5.746032143,1770,22.44
+Paraguay,Software Engineer,EBSA Group,Y,5,8,6.634682894,2373,22.44
+Paraguay,Full Stack Engineer,TrueNorth,Y,5,8,6.773055458,2373,22.44
+Paraguay,Senior Python Developer,Virtualmind,N,3,8,3.825124301,1569,22.44
+Paraguay,Big Data Engineer (Scala-Spark),Applaudo,Y,3,7,4.394782744,1851,22.44
+Paraguay,Work From Home Java Developer,Workling,Y,3,7,3.319246022,1851,22.44
+Paraguay,Sr. Node.js Engineer,TrueNorth,N,4,8,1.618590525,1770,22.44
+Paraguay,Work From Home .NET Developer,L.A. Head Hunter,Y,3,7,4.6731715,1851,22.44
+Paraguay,Join Our Tech Talent Pool (LATAM Remote),Qeystroke,N,2,6,6.896450627,1127,22.44
+Paraguay,Desarrollador Java,Experis Paraguay,Y,2,4,5.460814622,1288,22.44
+Paraguay,Python Software Programmer - Work from Home,Oowlish,Y,3,6,1.706974531,1730,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,Y,4,7,6.792159707,2052,22.44
+Paraguay,Remote Java Developer,Scopic Software,Y,2,6,7.451089773,1529,22.44
+Paraguay,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,N,2,8,3.891800314,1368,22.44
+Paraguay,Sr. React Engineer,TrueNorth,Y,4,8,6.612668263,2172,22.44
+Paraguay,"Staff Software Engineer (Backend, Python, RDBMS)",EQUALS TRUE,Y,5,9,7.925962319,2494,22.44
+Paraguay,Scala Developer,Applaudo,Y,4,7,3.437584959,2052,22.44
+Paraguay,Senior Blockchain Engineer,X9 Studios,N,2,6,2.464707487,1127,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,Y,5,10,7.485953347,2615,22.44
+Paraguay,Junior Data Engineer,Assist Digital,Y,5,10,0.4409568,2615,22.44
+Paraguay,Data Scientist,United Latino Students Association,N,1,7,5.018427878,1046,22.44
+Paraguay,Ingeniero de Datos,Itaú Paraguay,Y,4,7,6.943486738,2052,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,Y,4,8,5.679219831,2172,22.44
+Paraguay,Junior Data Engineer,Assist Digital,Y,2,4,6.402007385,1288,22.44
+Paraguay,Senior Python Developer,Virtualmind,Y,3,6,7.133680018,1730,22.44
+Paraguay,Join Our Tech Talent Pool (LATAM Remote),Qeystroke,N,4,8,0.711496266,1770,22.44
+Paraguay,Python Software Programmer - Work from Home,Oowlish,Y,5,9,4.402226877,2494,22.44
+Paraguay,Software Engineer,EBSA Group,Y,3,6,1.807109631,1730,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,4,8,6.316053218,1770,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,2,5,5.300600026,1006,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,Y,3,6,3.299901535,1730,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,Y,3,7,2.066734527,1851,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,5,11,5.347057973,2333,22.44
+Paraguay,Work From Home .NET Developer,L.A. Head Hunter,N,3,8,6.790077538,1569,22.44
+Paraguay,Big Data Engineer (Scala-Spark),Applaudo,N,3,7,6.514099187,1448,22.44
+Paraguay,Software Engineer,Equifax,N,2,6,6.386820756,1127,22.44
+Paraguay,Work From Home Java Developer,Workling,N,4,8,7.767644541,1770,22.44
+Paraguay,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,N,3,7,1.273617721,1449,22.44
+Paraguay,Scala Developer,Applaudo,Y,3,5,10.94088122,1609,22.44
+Paraguay,React/C# Fullstack Developer (LATAM Remote),Qeystroke,Y,3,7,4.222986369,1851,22.44
+Paraguay,Senior Blockchain Engineer,X9 Studios,Y,1,3,3.580382323,966,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,N,6,10,6.2345703,2414,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,Y,5,8,3.196553382,2374,22.44
+Paraguay,Data Scientist,United Latino Students Association,N,2,5,8.941244312,1006,22.44
+Paraguay,Developer,EXCELSIS,Y,3,9,5.245149678,2092,22.44
+Paraguay,Software Engineer,WillDom,Y,3,7,4.988625561,1851,22.44
+Paraguay,Software Engineer,Equifax,N,3,6,5.099793122,1328,22.44
+Paraguay,Software Engineer,EBSA Group,Y,4,7,2.690260529,2052,22.44
+Paraguay,Full Stack Engineer,TrueNorth,Y,2,4,4.97344834,1288,22.44
+Paraguay,Senior Python Developer,Virtualmind,Y,3,5,4.741743908,1609,22.44
+Paraguay,Big Data Engineer (Scala-Spark),Applaudo,N,1,5,7.163883694,805,22.44
+Paraguay,Work From Home Java Developer,Workling,Y,0,4,8.408520661,885,22.44
+Paraguay,Sr. Node.js Engineer,TrueNorth,N,4,7,5.16634905,1650,22.44
+Paraguay,Work From Home .NET Developer,L.A. Head Hunter,Y,3,7,4.50287021,1851,22.44
+Paraguay,Join Our Tech Talent Pool (LATAM Remote),Qeystroke,N,2,7,6.669327451,1247,22.44
+Paraguay,Desarrollador Java,Experis Paraguay,Y,3,9,4.765995239,2092,22.44
+Paraguay,Python Software Programmer - Work from Home,Oowlish,Y,3,7,5.990089112,1851,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,Y,3,5,4.659809179,1609,22.44
+Paraguay,Remote Java Developer,Scopic Software,Y,2,6,6.554332343,1529,22.44
+Paraguay,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,Y,3,8,5.117784046,1971,22.44
+Paraguay,Sr. React Engineer,TrueNorth,N,2,8,5.355166841,1368,22.44
+Paraguay,"Staff Software Engineer (Backend, Python, RDBMS)",EQUALS TRUE,N,3,7,3.474877498,1449,22.44
+Paraguay,Scala Developer,Applaudo,Y,3,7,2.973574554,1851,22.44
+Paraguay,Senior Blockchain Engineer,X9 Studios,N,4,6,6.304073815,1529,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,N,4,8,12.10556963,1770,22.44
+Paraguay,Junior Data Engineer,Assist Digital,Y,4,9,10.05241986,2293,22.44
+Paraguay,Data Scientist,United Latino Students Association,Y,3,7,8.947462999,1851,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,4,7,3.129141239,1650,22.44
+Paraguay,Junior Data Engineer,Assist Digital,N,4,7,5.575631646,1650,22.44
+Paraguay,Senior Python Developer,Virtualmind,N,1,7,4.101882267,1046,22.44
+Paraguay,Join Our Tech Talent Pool (LATAM Remote),Qeystroke,Y,4,10,3.829756477,2414,22.44
+Paraguay,Software Engineer,EBSA Group,N,2,5,4.072221962,1006,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,5,8,3.884060445,1971,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,1,4,3.809643922,684,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,2,6,5.08264065,1127,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,N,2,6,4.595398972,1127,22.44
+Paraguay,Remote Automation QA Engineer,Scopic Software,Y,4,8,10.55438611,2172,22.44
+Paraguay,Big Data Engineer (Scala-Spark),Applaudo,N,5,10,7.780419587,2213,22.44
+Paraguay,Webflow Developer 🚐 ⛺| US Travel Tech Startup 🚀 | Remote📍,Prometeo Talent - Recruitment services for high-growth tech companies.,N,2,7,7.330590572,1247,22.44
+Paraguay,Scala Developer,Applaudo,Y,3,8,2.991660967,1971,22.44
+Paraguay,Desarrollador de back-end,Billetera Mango,Y,2,6,5.128875001,1529,22.44
+Paraguay,React/C# Fullstack Developer (LATAM Remote),Qeystroke,N,3,6,4.246464735,1328,22.44
+Paraguay,Senior Blockchain Engineer,X9 Studios,Y,5,9,4.614260012,2494,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,N,3,6,7.294640434,1328,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,N,3,8,7.72028665,1569,22.44
+Paraguay,Data Engineer,Setting S.p.A.,Y,4,8,3.62429609,2172,22.44
+Paraguay,Remote Devops Engineer,Scopic Software,N,3,7,5.475177303,1448,22.44
+Paraguay,Remote Perl Developer,Scopic Software,N,3,6,6.579709842,1328,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,N,3,5,5.595041202,1207,22.44
+Paraguay,Remote DevOps Engineer,Scopic Software,N,3,6,8.303997605,1328,22.44
+Paraguay,Build Engineer,TLM Partners,Y,2,6,3.252455226,1529,22.44
+Bolivia,Mid/Sr Data Scientist (5571),Encora Inc.,Y,3,6,6.509014387,1028,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,N,2,7,1.704333315,741,13.328
+Bolivia,Work From Home Python Developer,L.A. Head Hunter,Y,1,6,3.34040615,789,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,N,4,9,3.653651203,1123,13.328
+Bolivia,Remote Automation QA Engineer,Scopic Software,Y,4,7,6.444799167,1219,13.328
+Bolivia,Backend Developer,LumiQualis,N,4,7,3.443861466,980,13.328
+Bolivia,Work From Home React Developer,Workling,Y,2,6,2.399227467,908,13.328
+Bolivia,Python Software Programmer - Work from Home,Oowlish,Y,5,9,7.186956304,1481,13.328
+Bolivia,Python Developer - Remote - Latin America,FullStack Labs,Y,4,9,5.069188092,1362,13.328
+Bolivia,Remote Java Developer,Scopic Software,N,3,6,4.253195408,789,13.328
+Bolivia,Software Engineer,Microsoft,Y,2,5,5.006915373,836,13.328
+Bolivia,Work From Home Node Developer,INDI Staffing Services,Y,3,7,4.507128069,1099,13.328
+Bolivia,Remote Perl Developer,Scopic Software,N,3,8,0.971767981,932,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,2,5,7.405454746,836,13.328
+Bolivia,Remote Automation QA Engineer,Scopic Software,N,4,7,6.244239105,980,13.328
+Bolivia,Remote Automation QA Engineer,Scopic Software,N,2,6,3.173132773,669,13.328
+Bolivia,Remote Automation QA Engineer,Scopic Software,N,2,4,7.070708815,526,13.328
+Bolivia,DevOps Engineer,LumiQualis,Y,4,8,5.746611686,1290,13.328
+Bolivia,UI Developer,"Kaygen, Inc.",N,4,8,2.162793165,1051,13.328
+Bolivia,Big Data Engineer (Scala-Spark),Applaudo,N,2,6,5.835025358,669,13.328
+Bolivia,Frontend Software Engineer,BM GROUP Bolivia,Y,4,9,5.143146362,1362,13.328
+Bolivia,Desarrollador web,BUPUNKU,N,5,10,5.272687232,1314,13.328
+Bolivia,UI Developer,"Kaygen, Inc.",Y,3,8,4.134189814,1171,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,1,5,3.542287125,717,13.328
+Bolivia,Mid/Sr Data Scientist (5571),Encora Inc.,N,3,8,4.90332179,932,13.328
+Bolivia,Work From Home Python Developer,L.A. Head Hunter,N,4,8,4.982057612,1051,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,N,4,7,2.53575479,980,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,N,3,6,3.75721272,789,13.328
+Bolivia,Software Engineer,Microsoft,N,1,5,7.434261883,478,13.328
+Bolivia,Backend Developer,LumiQualis,N,4,9,5.047658391,1123,13.328
+Bolivia,FULLSTACK Developer,Nexion S.R.L.,Y,3,9,3.714075444,1243,13.328
+Bolivia,Software Engineer,NICE Ltd,N,4,8,3.563631265,1051,13.328
+Bolivia,Software Engineer,NICE Ltd,N,3,8,3.646057411,932,13.328
+Bolivia,Software Engineer,NICE Ltd,N,4,7,1.892967311,980,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,8,9.52503542,1171,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,2,6,3.799123128,908,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,6,9.571689723,1028,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,6,0.76157865,1028,13.328
+Bolivia,Work From Home React Developer,Workling,N,4,8,3.158375554,1051,13.328
+Bolivia,Big Data Engineer (Scala-Spark),Applaudo,Y,2,7,-1.513844903,980,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,4,8,3.114983102,1290,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,4,8,4.595556736,1290,13.328
+Bolivia,Principal Statistical Programmer,DOCS,N,1,5,8.468946536,478,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,3,7,5.6297708,1099,13.328
+Bolivia,Encora Challenge: Measure Your Skills,Encora Inc.,Y,4,10,5.092631657,1434,13.328
+Bolivia,Principal Statistical Programmer,DOCS,N,3,6,3.028312902,789,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,3,9,7.455965351,1242,13.328
+Bolivia,Software Engineer,NICE Actimize,N,3,9,5.635781022,1004,13.328
+Bolivia,Mid/Sr Data Scientist (5571),Encora Inc.,N,3,8,10.39175828,932,13.328
+Bolivia,Work From Home Python Developer,L.A. Head Hunter,Y,4,7,0.146439591,1219,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,N,4,7,3.556552179,980,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,Y,2,6,6.659038355,908,13.328
+Bolivia,Software Engineer,Microsoft,N,3,6,3.653823519,789,13.328
+Bolivia,Backend Developer,LumiQualis,N,4,9,6.487336761,1123,13.328
+Bolivia,FULLSTACK Developer,Nexion S.R.L.,Y,3,5,2.264410166,956,13.328
+Bolivia,Software Engineer,NICE Ltd,N,2,4,5.119891225,526,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,7,3.309478487,1099,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,8,8.115134942,1171,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,2,6,3.260386881,908,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,2,6,2.940813487,908,13.328
+Bolivia,Software Engineer,NICE Ltd,N,3,6,6.080756694,789,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,4,7,3.869026192,1219,13.328
+Bolivia,Software Engineer,NICE Ltd,N,2,9,3.598615187,884,13.328
+Bolivia,Work From Home React Developer,Workling,N,1,6,3.48597266,550,13.328
+Bolivia,Big Data Engineer (Scala-Spark),Applaudo,N,3,8,4.411721483,932,13.328
+Bolivia,Software Engineer,NICE Ltd,N,4,9,3.613383997,1123,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,2,6,5.44851615,908,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,3,5,5.011967657,956,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,3,9,7.972727963,1243,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,3,7,4.449401138,1099,13.328
+Bolivia,Encora Challenge: Measure Your Skills,Encora Inc.,N,4,8,0.823725876,1051,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,4,8,6.77093061,1290,13.328
+Bolivia,Mid/Sr Data Scientist (5571),Encora Inc.,Y,2,6,2.346676856,908,13.328
+Bolivia,Work From Home Python Developer,L.A. Head Hunter,N,3,6,7.88535667,789,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,N,3,8,10.84218916,932,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,Y,3,7,2.201162379,1099,13.328
+Bolivia,Software Engineer,Microsoft,Y,3,6,4.845224209,1028,13.328
+Bolivia,Backend Developer,LumiQualis,N,1,4,6.252268486,407,13.328
+Bolivia,FULLSTACK Developer,Nexion S.R.L.,Y,5,9,4.942164335,1481,13.328
+Bolivia,Software Engineer,NICE Ltd,N,3,5,6.33766166,717,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,5,9,3.516082152,1481,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,6,9.031586454,1027,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,7,7.488863991,1099,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,2,4,5.113250467,765,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,6,7.575471695,1027,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,3,6,5.276092175,1028,13.328
+Bolivia,Software Engineer,NICE Ltd,N,3,8,6.513102028,932,13.328
+Bolivia,Work From Home React Developer,Workling,N,3,9,5.395133654,1004,13.328
+Bolivia,Big Data Engineer (Scala-Spark),Applaudo,Y,2,6,7.592338267,908,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,1,5,3.165344041,717,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,4,7,2.520883128,1219,13.328
+Bolivia,Principal Statistical Programmer,DOCS,N,4,9,8.731756565,1123,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,4,7,4.363902849,1219,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,3,7,4.375518773,1099,13.328
+Bolivia,Encora Challenge: Measure Your Skills,Encora Inc.,N,3,5,3.886635319,717,13.328
+Bolivia,Principal Statistical Programmer,DOCS,N,3,6,1.947318341,789,13.328
+Bolivia,Mid/Sr Data Scientist (5571),Encora Inc.,Y,1,4,4.655882393,645,13.328
+Bolivia,Work From Home Python Developer,L.A. Head Hunter,N,2,7,7.759859302,741,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,Y,2,6,7.678114216,908,13.328
+Bolivia,Data Scientist - Remote - Latin America,FullStack Labs,Y,1,5,1.140129966,717,13.328
+Bolivia,Software Engineer,Microsoft,N,4,7,5.728295802,980,13.328
+Bolivia,Backend Developer,LumiQualis,N,3,8,6.034132059,932,13.328
+Bolivia,FULLSTACK Developer,Nexion S.R.L.,N,2,5,4.715540713,598,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,7,7.407024932,1099,13.328
+Bolivia,Software Engineer,NICE Ltd,N,4,8,2.824659821,1051,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,2,7,6.652024347,980,13.328
+Bolivia,Software Engineer,NICE Ltd,N,2,6,5.852317689,669,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,3,6,6.336444538,1028,13.328
+Bolivia,Software Engineer,NICE Ltd,N,3,6,7.261872406,789,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,1,5,6.963720248,717,13.328
+Bolivia,Software Engineer,NICE Ltd,N,3,6,5.019591356,789,13.328
+Bolivia,Work From Home React Developer,Workling,N,3,7,7.24710177,860,13.328
+Bolivia,Big Data Engineer (Scala-Spark),Applaudo,N,4,8,7.382380071,1051,13.328
+Bolivia,Software Engineer,NICE Ltd,Y,5,8,4.778683702,1410,13.328
+Bolivia,Principal Statistical Programmer,DOCS,N,3,7,5.809338095,860,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,2,5,0.96894889,836,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,4,6,4.108964757,1147,13.328
+Bolivia,Remote Java Developer,Scopic Software,Y,3,7,0.916504302,1099,13.328
+Bolivia,Encora Challenge: Measure Your Skills,Encora Inc.,N,4,8,9.451787665,1051,13.328
+Bolivia,Principal Statistical Programmer,DOCS,Y,3,9,3.59237873,1243,13.328
+Suriname,Junior Full Stack Developer,Kingfisher Recruitment,Y,3,8,6.363474224,896,10.2
+Suriname,Back-end Developer,Kingfisher Recruitment,Y,3,6,6.639287296,786,10.2
+Suriname,Full Stack Developer,Kingfisher Recruitment,N,1,6,2.870234832,42,10.2
+Suriname,Senior Blockchain Engineer,X9 Studios,N,3,7,3.043145899,658,10.2
+Suriname,.NET Developer,Kingfisher Recruitment,N,3,8,3.138534666,713,10.2
+Suriname,Full Stack Developer (Java & Angular),Kingfisher Recruitment,N,2,6,7.112541142,512,10.2
+Suriname,Release Engineer,Looi Consulting LLC,N,3,7,2.725940633,658,10.2
+Suriname,Freelance Unreal Engine Developer,Toptal,Y,3,7,5.542593635,841,10.2
+Suriname,Service Engineer Printing Technology,Jobfixing,Y,2,5,3.84740507,640,10.2
+Suriname,Freelance Elixir Developer,Toptal,N,4,9,2.744643766,860,10.2
+Suriname,Senior Web Engineer,Scopic Software,N,4,7,7.201701802,750,10.2
+Suriname,Junior Full Stack Developer,Kingfisher Recruitment,Y,4,8,6.184923704,987,10.2
+Suriname,Full Stack Developer,Kingfisher Recruitment,N,3,7,4.521355513,658,10.2
+Suriname,Senior Blockchain Engineer,X9 Studios,Y,3,6,4.151246102,786,10.2
+Suriname,Database Reliability Engineer (Remote),Percona,N,2,5,3.258277466,457,10.2
+Suriname,Full Stack Developer (Java & Angular),Kingfisher Recruitment,Y,2,6,3.339187295,695,10.2
+Suriname,Release Engineer,Looi Consulting LLC,N,2,6,5.816886078,512,10.2
+Suriname,Frontend Developer (Angular),Kingfisher Recruitment,N,4,9,5.409615656,859,10.2
+Suriname,Freelance Unreal Engine Developer,Toptal,Y,3,6,6.275701956,786,10.2
+Suriname,Service Engineer Printing Technology,Jobfixing,Y,1,5,7.348611944,549,10.2
+Suriname,Freelance Elixir Developer,Toptal,Y,2,6,6.4896909,695,10.2
+Suriname,Senior Web Engineer,Scopic Software,Y,4,7,1.732225066,933,10.2
+Suriname,Junior Full Stack Developer,Kingfisher Recruitment,Y,3,9,6.338307927,951,10.2
+Suriname,Back-end Developer,Kingfisher Recruitment,N,4,9,1.470181213,860,10.2
+Suriname,Full Stack Developer,Kingfisher Recruitment,Y,3,5,8.347312325,732,10.2
+Suriname,Senior Blockchain Engineer,X9 Studios,Y,3,7,6.987679585,841,10.2
+Suriname,Database Reliability Engineer (Remote),Percona,Y,4,8,6.00412975,987,10.2
+Suriname,Full Stack Developer (Java & Angular),Kingfisher Recruitment,N,3,9,4.66723626,768,10.2
+Suriname,Release Engineer,Looi Consulting LLC,Y,5,10,2.200179786,1189,10.2
+Suriname,Frontend Developer (Angular),Kingfisher Recruitment,Y,2,4,3.075005296,585,10.2
+Suriname,Freelance Unreal Engine Developer,Toptal,N,3,5,5.853987435,549,10.2
+Suriname,Service Engineer Printing Technology,Jobfixing,N,3,9,3.187502143,768,10.2
+Suriname,Freelance Elixir Developer,Toptal,N,3,6,3.75008705,604,10.2
+Suriname,Senior Web Engineer,Scopic Software,Y,3,5,4.777422348,732,10.2
+Suriname,Junior Full Stack Developer,Kingfisher Recruitment,Y,4,7,7.091152719,933,10.2
+Suriname,Back-end Developer,Kingfisher Recruitment,Y,4,9,7.171972836,1042,10.2
+Suriname,Full Stack Developer,Kingfisher Recruitment,Y,3,6,2.349519192,786,10.2
+Suriname,Senior Blockchain Engineer,X9 Studios,N,4,10,6.011961343,914,10.2
+Suriname,.NET Developer,Kingfisher Recruitment,Y,3,6,5.810098703,786,10.2
+Suriname,Database Reliability Engineer (Remote),Percona,N,2,6,5.669097646,512,10.2
+Suriname,Full Stack Developer (Java & Angular),Kingfisher Recruitment,Y,1,4,8.814389178,494,10.2
+Suriname,Release Engineer,Looi Consulting LLC,N,3,6,6.599568013,604,10.2
+Suriname,Frontend Developer (Angular),Kingfisher Recruitment,Y,4,7,4.090595278,933,10.2
+Suriname,Freelance Unreal Engine Developer,Toptal,Y,4,9,2.892333331,1042,10.2
+Suriname,Service Engineer Printing Technology,Jobfixing,Y,4,9,3.800724594,1042,10.2
+Suriname,Freelance Elixir Developer,Toptal,N,3,6,6.411935056,604,10.2
+Suriname,Senior Web Engineer,Scopic Software,N,4,8,2.274465648,805,10.2
+Guyana,Data Engineer,Univision,Y,3,10,5.508543234,1234,12.512
+Guyana,Remote Full Stack Web Developer,MonetizeMore,Y,3,8,6.495305717,1099,12.512
+Guyana,Senior Blockchain Engineer,X9 Studios,Y,3,7,0.68527819,1032,12.512
+Guyana,"Software Development Specialist, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,3,8,4.972169862,1099,12.512
+Guyana,Operations Intelligence Performance Optimization Center Engineer,SBM Offshore,N,3,6,1.594693462,740,12.512
+Guyana,Senior Web Engineer,Scopic Software,Y,2,6,0.530821318,853,12.512
+Guyana,Softwareentwickler Web / .NET m/w (Teilzeit möglich),JobCourier,N,4,8,5.079318058,987,12.512
+Guyana,Release Engineer,Looi Consulting LLC,N,4,8,8.282202246,987,12.512
+Guyana,Freelance Elixir Developer,Toptal,N,4,8,6.224203261,987,12.512
+Guyana,Sr. Software Engineer,Univision,N,3,8,5.081190997,875,12.512
+Guyana,Freelance Unreal Engine Developer,Toptal,Y,3,6,6.882060898,965,12.512
+Guyana,Sr. Platform Engineer,Aha!,Y,3,8,5.680456379,1099,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,5,9,7.004686032,1166,12.512
+Guyana,Ruby on Rails Engineer,Aha!,Y,3,6,5.673604284,965,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,2,6,5.05599222,628,12.512
+Guyana,Ruby on Rails Engineer,Aha!,N,1,4,2.819449655,382,12.512
+Guyana,Sr. Platform Engineer,Aha!,N,1,6,4.783419754,516,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,Y,4,7,3.935462776,1144,12.512
+Guyana,"Monitoring, Evaluation, and Learning (MEL) Specialist / Data Analyst",DAI,Y,4,7,2.589518096,1144,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,N,3,4,6.11531793,606,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,N,3,8,0.615953551,875,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,N,3,7,4.636194136,808,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,Y,3,7,3.130917337,1032,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,2,7,6.854399561,920,12.512
+Guyana,Remote Full Stack Web Developer,MonetizeMore,Y,4,9,6.439058635,1279,12.512
+Guyana,Senior Blockchain Engineer,X9 Studios,N,1,6,8.175079044,516,12.512
+Guyana,"Software Development Specialist, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,2,5,6.158034459,785,12.512
+Guyana,Sr. Software Engineer,Univision,N,1,6,5.012196789,516,12.512
+Guyana,Data Engineer,Univision,N,3,7,4.894343432,808,12.512
+Guyana,Softwareentwickler Web / .NET m/w (Teilzeit möglich),JobCourier,N,3,9,4.186570523,942,12.512
+Guyana,Operations Intelligence Performance Optimization Center Engineer,SBM Offshore,N,3,7,5.140303265,808,12.512
+Guyana,Release Engineer,Looi Consulting LLC,N,2,8,5.186952768,763,12.512
+Guyana,"Monitoring, Evaluation, and Learning (MEL) Specialist / Data Analyst",DAI,Y,2,7,8.709427238,920,12.512
+Guyana,Freelance Unreal Engine Developer,Toptal,Y,2,6,4.928047945,852,12.512
+Guyana,Senior Web Engineer,Scopic Software,Y,1,7,3.330810527,808,12.512
+Guyana,Freelance Elixir Developer,Toptal,N,2,5,5.319120706,561,12.512
+Guyana,Sr. Front End Engineer,Aha!,Y,4,9,5.798384279,1279,12.512
+Guyana,Sr. Platform Engineer,Aha!,Y,4,9,5.208767749,1279,12.512
+Guyana,Ruby on Rails Engineer,Aha!,Y,2,7,6.413287216,920,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,4,8,8.177358017,987,12.512
+Guyana,Sr. Platform Engineer,Aha!,Y,4,9,1.06248723,1279,12.512
+Guyana,Ruby on Rails Engineer,Aha!,N,1,6,7.968242286,516,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,N,3,8,6.678478159,875,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,N,3,7,2.888880412,808,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,Y,2,6,6.084809881,852,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,4,8,4.949577422,1211,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,Y,6,9,5.907538789,1503,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,N,2,7,9.824169454,696,12.512
+Guyana,Data Engineer,Univision,N,3,7,3.977960182,808,12.512
+Guyana,Full Stack Engineer,Xploy Solutions,N,3,8,4.839164102,875,12.512
+Guyana,Remote Full Stack Web Developer,MonetizeMore,N,4,9,4.931583615,1054,12.512
+Guyana,Senior Blockchain Engineer,X9 Studios,N,3,7,6.677418841,808,12.512
+Guyana,"Software Development Specialist, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,4,8,7.252060183,81,12.512
+Guyana,Operations Intelligence Performance Optimization Center Engineer,SBM Offshore,Y,1,6,4.495048891,740,12.512
+Guyana,Senior Web Engineer,Scopic Software,Y,3,7,7.677510991,1032,12.512
+Guyana,Softwareentwickler Web / .NET m/w (Teilzeit möglich),JobCourier,Y,4,8,6.902668552,1211,12.512
+Guyana,Release Engineer,Looi Consulting LLC,N,3,6,5.718299698,74,12.512
+Guyana,Freelance Elixir Developer,Toptal,N,2,7,7.3565992,696,12.512
+Guyana,Sr. Software Engineer,Univision,Y,3,7,5.389109814,1032,12.512
+Guyana,Freelance Unreal Engine Developer,Toptal,N,4,8,6.035159765,987,12.512
+Guyana,Sr. Front End Engineer,Aha!,Y,4,8,7.932642618,121,12.512
+Guyana,Ruby on Rails Engineer,Aha!,N,1,6,3.942318045,516,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,3,9,6.103013647,942,12.512
+Guyana,Ruby on Rails Engineer,Aha!,Y,2,6,4.842792488,852,12.512
+Guyana,Sr. Platform Engineer,Aha!,Y,3,4,1.975283851,830,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,Y,3,7,7.518711742,1032,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,N,3,8,4.771465295,875,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,4,10,5.276132868,1346,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,N,1,8,4.086581713,651,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,Y,4,6,7.28564894,1077,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,N,2,8,1.012490095,763,12.512
+Guyana,Freelance Elixir Developer,Toptal,Y,3,7,8.118093329,1032,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,4,7,7.660606104,920,12.512
+Guyana,Operations Intelligence Performance Optimization Center Engineer,SBM Offshore,Y,2,7,1.550150669,920,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,Y,2,5,4.366521903,785,12.512
+Guyana,Ruby on Rails Engineer,Aha!,Y,2,6,6.16712662,853,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,Y,3,7,6.746327091,1032,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,N,5,9,5.211132463,1166,12.512
+Guyana,Ruby on Rails Engineer,Aha!,Y,2,6,3.754873047,853,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,3,6,7.5789559,965,12.512
+Guyana,Sr. Platform Engineer,Aha!,N,3,6,1.819857328,740,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,Y,5,11,3.253703047,1525,12.512
+Guyana,Softwareentwickler Web / .NET m/w (Teilzeit möglich),JobCourier,Y,3,6,8.556768473,965,12.512
+Guyana,"Software Development Specialist, Trilogy (Remote) - $100,000/year USD",Crossover for Work,N,2,5,7.253347682,561,12.512
+Guyana,Release Engineer,Looi Consulting LLC,N,3,7,7.203430023,808,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,2,5,3.352698724,561,12.512
+Guyana,Freelance Unreal Engine Developer,Toptal,N,1,4,3.561969694,382,12.512
+Guyana,Data Engineer,Univision,Y,5,9,4.971505859,1391,12.512
+Guyana,Sr. Platform Engineer,Aha!,N,3,9,5.398556455,942,12.512
+Guyana,Senior Blockchain Engineer,X9 Studios,N,3,8,6.819588348,875,12.512
+Guyana,"Monitoring, Evaluation, and Learning (MEL) Specialist / Data Analyst",DAI,N,3,5,2.131359731,673,12.512
+Guyana,Senior Web Engineer,Scopic Software,N,5,9,4.277961386,1166,12.512
+Guyana,Remote Full Stack Web Developer,MonetizeMore,Y,2,8,7.741675356,987,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,3,6,4.978981673,965,12.512
+Guyana,Data Engineer,Univision,N,3,7,4.54419109,808,12.512
+Guyana,Full Stack Engineer,Xploy Solutions,N,4,7,2.810584969,920,12.512
+Guyana,Remote Full Stack Web Developer,MonetizeMore,N,5,10,7.735668152,1234,12.512
+Guyana,Senior Blockchain Engineer,X9 Studios,Y,5,9,6.562550663,1391,12.512
+Guyana,"Software Development Specialist, Trilogy (Remote) - $100,000/year USD",Crossover for Work,Y,4,9,6.282404109,1279,12.512
+Guyana,Operations Intelligence Performance Optimization Center Engineer,SBM Offshore,Y,3,7,8.195863622,1032,12.512
+Guyana,Senior Web Engineer,Scopic Software,N,3,6,3.305157373,740,12.512
+Guyana,Softwareentwickler Web / .NET m/w (Teilzeit möglich),JobCourier,N,3,7,3.622466061,808,12.512
+Guyana,Release Engineer,Looi Consulting LLC,Y,4,9,6.673438971,1279,12.512
+Guyana,Freelance Elixir Developer,Toptal,Y,4,7,4.208222116,1144,12.512
+Guyana,Sr. Software Engineer,Univision,N,1,6,6.580961356,516,12.512
+Guyana,Freelance Unreal Engine Developer,Toptal,Y,2,7,5.436260615,920,12.512
+Guyana,Sr. Platform Engineer,Aha!,Y,3,8,4.09805413,1099,12.512
+Guyana,Sr. Front End Engineer,Aha!,Y,3,7,5.566663818,1032,12.512
+Guyana,Ruby on Rails Engineer,Aha!,N,3,8,-0.749995793,875,12.512
+Guyana,Sr. Front End Engineer,Aha!,N,3,7,3.819420268,808,12.512
+Guyana,Ruby on Rails Engineer,Aha!,Y,4,9,5.941825284,1279,12.512
+Guyana,Sr. Platform Engineer,Aha!,Y,4,9,5.839978878,1279,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,N,3,6,1.952968108,740,12.512
+Guyana,Lead Ruby on Rails Engineer,Aha!,Y,1,4,5.924260076,606,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,6,10,4.856359338,1570,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,N,1,5,6.040759017,449,12.512
+Guyana,Sr. Ruby on Rails Engineer,Aha!,N,2,7,4.944933437,696,12.512
+Guyana,Sr. Security Engineer (Ruby on Rails experience required),Aha!,Y,4,7,8.507761887,1144,12.512
